@@ -13,16 +13,6 @@
     margin-right: 10.7%;
 }
 
-.get_a_quote_button {
-    width: 117px;
-    height: 40px;
-    position: absolute;
-    right: 0px;
-    z-index: -1;
-
-    background: #E6A859;
-}
-
 .header_button {
     font-family: 'Poppins';
     font-style: normal;
